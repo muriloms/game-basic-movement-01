@@ -1,4 +1,5 @@
 # Movimentos Básicos 01
+## Plataforma 2D
 ## Pulo | Pulo Duplo | Dash
 ---
 # Artes utilizadas
